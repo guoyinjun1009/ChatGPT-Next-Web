@@ -183,7 +183,7 @@ export function SideBar(props: { className?: string }) {
           icon={<PluginIcon />}
           text={shouldNarrow ? undefined : "获取apikey"}
           className={styles["sidebar-bar-button"]}
-          onClick={() => (window.location.href = "https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24942710256.4.4a846b22rzF1uw&id=729656602996")}
+          onClick={() => (window.location.href = "")}
           shadow
         />
       </div>
